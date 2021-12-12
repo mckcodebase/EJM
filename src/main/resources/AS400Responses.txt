@@ -1,0 +1,31 @@
+Reckitt Benckiser Healthcare|AU~Gold~Y~N~ 6.020|IR~Iridium~Y~N~ 22.840|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 222.332|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|AG~Silver~Y~N~ 0.000|
+Pfizer - Ringaskiddy|AU~Gold~Y~N~ 5.226|IR~Iridium~Y~N~ 19.147|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 190.958|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|AG~Silver~Y~N~ 0.000|
+GlaxoSmithKline Montrose|AU~Gold~Y~N~ 5.226|IR~Iridium~Y~N~ 19.147|
+Great Lakes|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 190.958|
+JM Japan Autocat|AU~Gold~Y~N~ 6.020|IR~Iridium~Y~N~ 22.840|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 222.332|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|AG~Silver~Y~N~ 0.000|
+AstraZeneca|IR~Iridium~Y~N~ 19.147|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 190.958|
+Cipan|AU~Gold~Y~N~ 5.226|IR~Iridium~Y~N~ 19.147|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 190.958|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|AG~Silver~Y~N~ 0.000|
+Great Lakes|IR~Iridium~Y~N~ 19.147|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 190.958|
+GlaxoSmithKline Montrose|AU~Gold~Y~N~ 5.226|IR~Iridium~Y~N~ 19.147|
+JM Japan Autocat|AU~Gold~Y~N~ 6.020|IR~Iridium~Y~N~ 22.840|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 222.332|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|AG~Silver~Y~N~ 0.000|
+Great Lakes|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|
+Pfizer - Ringaskiddy|AU~Gold~Y~N~ 5.226|IR~Iridium~Y~N~ 19.147|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 190.958|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|AG~Silver~Y~N~ 0.000|
+AstraZeneca|IR~Iridium~Y~N~ 19.147|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 190.958|
+JM Japan Autocat|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|
+GlaxoSmithKline Montrose|AU~Gold~Y~N~ 6.020|IR~Iridium~Y~N~ 22.840|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 222.332|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|AG~Silver~Y~N~ 0.000|
+AstraZeneca|AU~Gold~Y~N~ 5.226|IR~Iridium~Y~N~ 19.147|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 190.958|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|AG~Silver~Y~N~ 0.000|
+Great Lakes|AU~Gold~Y~N~ 5.226|IR~Iridium~Y~N~ 19.147|
+Pfizer - Ringaskiddy|IR~Iridium~Y~N~ 19.147|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 190.958|
+GlaxoSmithKline Montrose|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|
+Great Lakes|AU~Gold~Y~N~ 5.226|IR~Iridium~Y~N~ 19.147|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 190.958|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|AG~Silver~Y~N~ 0.000|
+JM Japan Autocat|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|
+AstraZeneca|AG~Silver~Y~N~ 0.000|
+Pfizer - Ringaskiddy|AU~Gold~Y~N~ 6.020|IR~Iridium~Y~N~ 22.840|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 222.332|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|AG~Silver~Y~N~ 0.000|
+Cipan|IR~Iridium~Y~N~ 19.147|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 190.958|
+Great Lakes|AU~Gold~Y~N~ 5.226|IR~Iridium~Y~N~ 19.147|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 190.958|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|AG~Silver~Y~N~ 0.000|
+GlaxoSmithKline Montrose|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|
+AstraZeneca|IR~Iridium~Y~N~ 19.147|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 190.958|
+Pfizer - Ringaskiddy|AG~Silver~Y~N~ 0.000|
+JM Japan Autocat|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|
+GlaxoSmithKline Montrose|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|
+Pfizer - Ringaskiddy|AU~Gold~Y~N~ 5.226|IR~Iridium~Y~N~ 19.147|OS~Osmium~Y~N~ 0.000|PD~Palladium~Y~N~ 0.000|PT~Platinum~Y~N~ 190.958|RH~Rhodium~Y~N~ 0.161|RU~Ruthenium~Y~N~ 0.000|AG~Silver~Y~N~ 0.000|
